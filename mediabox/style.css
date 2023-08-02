@@ -1,0 +1,11 @@
+h1, h2, h3 {
+    font-weight: 120;
+    color: #3f200c;
+}
+p, td{
+    font-weight: 150;
+    color: #160b03;
+}
+thead{
+    color: #292828af;
+}
